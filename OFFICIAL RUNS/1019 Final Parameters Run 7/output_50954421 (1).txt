@@ -1,0 +1,6 @@
+Requirement already satisfied: rebound in /home/ofoo/.local/lib/python3.9/site-packages (3.24.0)
+[18:54:33] WARNING: ../src/learner.cc:888: Found JSON model saved before XGBoost 1.6, please save the model using current version again. The support for old JSON model will be discontinued in XGBoost 2.3.
+[3, 6.5, 0.19]
+[6, 60, 2]
+547
+0.0
